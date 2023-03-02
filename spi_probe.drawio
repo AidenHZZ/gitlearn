@@ -1,1 +1,237 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T10:06:06.217Z" agent="5.0 (Windows)" etag="_DSyQpD4QWyTL-FMC4WG" version="20.8.22" type="github" pages="2"><diagram name="spi_probe" id="a7r1IPSuU92PSmlWyq3b">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</diagram><diagram id="bBaUsNeh0jhWocMX1ozx" name="spi_master_start">3Vdpb5wwEP01ltpKK3EHPu5B0ibKpZVaqV+QAe9ixWBkvEfy6zsGA3uQNq12o7bSajHP45lh/OYZkD3Nt1cCl9ktTwlDlpFukT1DlmUargEXhTw3yMizNLIUNNVWPTCnL6RdqtEVTUm1Zyg5Z5KW+2DCi4Ikcg/DQvDNvtmCs/2oJV6SI2CeYHaMfqOpzBrUty56/DOhy6yNbHpBM5Pj1lg/SZXhlG92IDtE9lRwLptRvp0SpqrX1qVZd/nKbJeYIIV8ywLbu7n5ckXn8egWf33Yfg6dG3OkvawxW+kHRpbHwN8kpWsYLtXwZRtVJY1yXEkiokpiIT9oLMloGdFiwZE1RSoBD+clLGn+wUgvMj7CbesactzxPhAQhQ6a+GgCAx+NPeSbKPRQAONLFF6gwEFjv0ZmaOyi0EW+r8YwGF8gf1IjUxR4yhicBHZtHCLfqT3PAOkfqI0fi8OMDvOsd1E+t9QQfFWkRFXXhOlNRiWZlzhRsxvoBsAymTM9veCF1Ow2fXVPGZtyxkXty04x8RcJ4JUU/InszHiJT+JFF39NhCTbVylgdsSCliQ8J1I8g4le4Gkq6mY0O25uemo7LZbt0trQINbttOx894yDgSbdMAEDPDUs+v36Pi5frgqbRaK6HSZgw54irspmN35xb7QbadQejI6Uo8623kFt5k7iVRUVqxy5s53d3tv/P8vgIF4bpssLOCA4Y9APCXCnCWWcLz7Erhu0IkxJY5uGbsmBAh0s+Cnnjd/n/AkY7AaHFLaPKewOUdg7F4Ott0ioCgE/kLPJJQqCWobGKGiUDqRqDCcOg7paRqyeFtSp5osgKuMi7aCUrGmiwFTQda9dR4p6Ev7kcJxHMZVVR535w5fo9n4WRvZZG6ciclV2QfVR04DnDCsFLqrFjpDoyB1+6kPgHA1hOwOa7gxpunWujrCPOmJvC//9c7Q/OLuqu8dVN99VhpzXit6z+j+su3PxjnUX9sZaLR8vq7v1zfXLtf3IzNFpXmAg8ie43JGNkn04CmKcPCF7XH+xKD1aMFxlcOWlEuNP9XHy+zJoHELDsk/yqInTqODAS722+Av10DMOGOIO6aFxGobAbf/9Vs/tfAbb4Q8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-02T10:02:50.399Z" agent="5.0 (Windows)" etag="jQpTzmx6k1BPGzpXDq40" version="20.8.23" type="github" pages="2">
+  <diagram name="spi_probe" id="a7r1IPSuU92PSmlWyq3b">
+    <mxGraphModel dx="1290" dy="1682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EId5v6JQrP3rvivg6xgG-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="EId5v6JQrP3rvivg6xgG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="EId5v6JQrP3rvivg6xgG-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="140" />
+              <mxPoint x="290" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="NFnsKUk0POgOrMSo4AIK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="NFnsKUk0POgOrMSo4AIK-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="140" />
+              <mxPoint x="260" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="OYZxECU2rRhErb9pMmaG-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="140" />
+              <mxPoint x="250" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="OYZxECU2rRhErb9pMmaG-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="160" />
+              <mxPoint x="160" y="170" />
+              <mxPoint x="240" y="170" />
+              <mxPoint x="240" y="1210" />
+              <mxPoint x="260" y="1210" />
+              <mxPoint x="260" y="1246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="OYZxECU2rRhErb9pMmaG-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="OYZxECU2rRhErb9pMmaG-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="OYZxECU2rRhErb9pMmaG-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EId5v6JQrP3rvivg6xgG-1" target="OYZxECU2rRhErb9pMmaG-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-1" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;zx_spi_probe&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" source="EId5v6JQrP3rvivg6xgG-2" target="EId5v6JQrP3rvivg6xgG-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-2" value="zx_get_pcidev(zx_spi_chip_info);" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="354" y="300" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-3" value="&lt;div&gt;spi_chip_info-&amp;gt;zx_busctl_pci_dev = &lt;font color=&quot;#ff0000&quot;&gt;pci_get_domain_bus_and_slot&lt;/font&gt;(0,pci_bus,0x88);&lt;/div&gt;&lt;div&gt;//根据domain=0, pci_bus=0,pci_device_slot=0x88&lt;/div&gt;&lt;div&gt;//返回dev 结构&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="780" y="290" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-4" value="最后返回dev_number + vender_id，002上是10011d17，那1106的vender id是哪个产品" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="780" y="410" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EId5v6JQrP3rvivg6xgG-2" target="EId5v6JQrP3rvivg6xgG-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="370" as="sourcePoint" />
+            <mxPoint x="810" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-14" value="&lt;div&gt;master = spi_alloc_master&lt;/div&gt;&lt;div&gt;zx_spi_chip_info-&amp;gt;master[i] = spi_master_get(master);&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="360" y="500" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" source="EId5v6JQrP3rvivg6xgG-15" target="EId5v6JQrP3rvivg6xgG-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EId5v6JQrP3rvivg6xgG-15" value="struct zx_spi_master_extension" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="720" y="505" width="200" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="NFnsKUk0POgOrMSo4AIK-1" value="pci_read_config_dword(zx_spi_chip_info-&amp;gt;zx_busctl_pci_dev, &lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; 0xBC, &amp;amp;zx_spi_base_reg);&lt;/div&gt;&lt;div&gt;//这个BC是spi mmio base地址存放的offset，取到了以后就传给zx_spi_base_reg&lt;/div&gt;&lt;div&gt;zx_spi_base_reg = (zx_spi_base_reg &amp;lt;&amp;lt; 8) &amp;amp; 0xFFFFF000;//后面补零，只有20位&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="354" y="630" width="536" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="NFnsKUk0POgOrMSo4AIK-2" target="NFnsKUk0POgOrMSo4AIK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFnsKUk0POgOrMSo4AIK-2" value="int pci_bus_read_config_##size \&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;(struct pci_bus *bus, unsigned int devfn, int pos, type *value)&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;{&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;res = bus-&amp;gt;ops-&amp;gt;read(bus, devfn, pos, len, &amp;amp;data);&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; \&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;*value = (type)data;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;return res;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; \&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="590" width="490" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NFnsKUk0POgOrMSo4AIK-3" value="zx_spi_chip_info-&amp;gt;mmio_ioarea = request_mem_region(zx_spi_base_reg, 10, &quot;zx_spi_ctrl&quot;);" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="360" y="870" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-9" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-1" target="NFnsKUk0POgOrMSo4AIK-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;仅仅&lt;strong&gt;是linux对IO内存的管理，意思指是从zx_spi_base_reg开始的10个page_size的这块物理内存我“zx_spi_ctrl”已经占用了，别人就不要动了，也不能被swap出去&lt;/strong&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="850" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-2" value="zx_spi_chip_info-&amp;gt;mmio_regs = ioremap(zx_spi_base_reg, 10);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="354" y="1030" width="406" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-3" target="OYZxECU2rRhErb9pMmaG-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-3" value="访问的第一步就是要把设备所处的物理地址映射到虚拟地址" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1030" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.356;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-4" target="OYZxECU2rRhErb9pMmaG-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-4" target="OYZxECU2rRhErb9pMmaG-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-4" value="访问I/O内存的流程request_mem_region() -&amp;gt; ioremap() -&amp;gt; ioread8()/iowrite8() -&amp;gt; iounmap() -&amp;gt; release_mem_region() " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1470" y="770" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-16" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-15" target="NFnsKUk0POgOrMSo4AIK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="530" />
+              <mxPoint x="980" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-15" value="spi不是pcidevice，但他的IO信息是放在一个MMIO空间里的，base就在D17F0的config空间的0xBC的位置" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="470" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-17" value="往D17F0 BUS Control的config 空间的0x40写0x10" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1210" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-18" value="D17F0 ,下面有两个，一个是bus control（BUSC），占据了config空间的00-7f，还有mmio空间000-fff，然后还有一个PMU，只用了config空间80-ff，当然还有其他一些细节" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1460" y="1130" width="400" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-20" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; /* Important! */&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;enable_rom_write(zx_spi_chip_info);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1220" width="360" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-24" value="snprintf(spi_proc_name, 20, &quot;%s%u&quot;, &quot;zx_spi&quot;, controller_count);&#xa;    zx_proc_spi = proc_mkdir(spi_proc_name, NULL);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1360" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="OYZxECU2rRhErb9pMmaG-25" target="OYZxECU2rRhErb9pMmaG-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-25" value="在/proc 下面创建一个zx_spi0的文件夹" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1051" y="1360" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-27" value="&lt;div&gt;zx_spi_master_start(zx_spi_chip_info, &amp;amp;zx_master_0);&lt;/div&gt;&lt;div&gt;主要是用来初始化结构体spi_master&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1510" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-28" value="zx_spi_chip_info = kzalloc(sizeof *zx_spi_chip_info, GFP_KERNEL);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-200" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-29" value="if (!ACPI_HANDLE(&amp;pdev-&gt;dev) || acpi_bus_get_device(ACPI_HANDLE(&amp;pdev-&gt;dev), &amp;adev))&#xa;        return -EINVAL;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-360" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-30" value="platform_set_drvdata(pdev, zx_spi_chip_info);//把这个结构体作为私有数据&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;zx_spi_chip_info-&amp;gt;platform_dev = pdev;//在其他地方可以通过这个元素找到该pdev" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="350" y="-50" width="730" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OYZxECU2rRhErb9pMmaG-31" value="list_for_each_entry(hwid, &amp;amp;adev-&amp;gt;pnp.ids, list){" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="354" y="140" width="426" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bBaUsNeh0jhWocMX1ozx" name="spi_master_start">
+    <mxGraphModel dx="1050" dy="-656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="36KKIGiSb-MaVPxHE4K1-1" value="&lt;div&gt;zx_spi_master_start(zx_spi_chip_info, &amp;amp;zx_master_0);&lt;/div&gt;&lt;div&gt;主要是用来初始化结构体spi_master&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1220" width="420" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9aC02iZJObpzGn3l_rsM-1" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; master = chip_info-&amp;gt;master[bus_num];&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master-&amp;gt;bus_num = controller_count; &lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master-&amp;gt;num_chipselect = master_info-&amp;gt;num_chipselect;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1230" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aC02iZJObpzGn3l_rsM-2" value="&lt;div&gt;//这些会called by spi core and spi device driver&lt;/div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master-&amp;gt;mode_bits = SPI_MODE_3;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master-&amp;gt;setup = zx_spi_setup;&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master-&amp;gt;transfer = zx_spi_transfer;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; /* New callback: for flash ops */&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;master-&amp;gt;mem_ops = &amp;amp;zx_mem_ops;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1340" width="420" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="9aC02iZJObpzGn3l_rsM-3" value="zx_spi_setup" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9aC02iZJObpzGn3l_rsM-4" value="zx_spi_transfer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1220" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; struct zx_spi_master_extension *master_ext;&amp;nbsp;&amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt; master_ext = spi_master_get_devdata(master);&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;font color=&quot;#ff0000&quot;&gt;sdev-&amp;gt;controller_data = master_ext;&lt;/font&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master_ext-&amp;gt;dev[chip_select] = sdev;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1320" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-2" value="&lt;div&gt;主要是传进来的这个spi_message&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;font color=&quot;#ff0000&quot;&gt;master = spi-&amp;gt;master;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master_ext = spi-&amp;gt;controller_data;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;spin_lock_irqsave(&amp;amp;master_ext-&amp;gt;queue_lock, flags);&lt;/font&gt;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; list_add_tail(&amp;amp;m-&amp;gt;queue, &amp;amp;master_ext-&amp;gt;queue);&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;white-space: pre;&quot;&gt;	        &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;/span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; queue_work(master_ext-&amp;gt;workqueue,&amp;amp;master_ext-&amp;gt;work);&lt;br&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; spin_unlock_irqrestore(&amp;amp;master_ext-&amp;gt;queue_lock, flags);&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1503" y="1480" width="457" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-3" value="zx_mem_ops" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-4" value="&lt;div&gt;static const struct spi_controller_mem_ops zx_mem_ops = {&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; .exec_op = zx_spi_mem_exec,&lt;/div&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;.adjust_op_size = zx_spi_adjust_op_size," style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1690" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-5" value="master_ext = spi_master_get_devdata(master);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1590" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-6" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; /* Get the spi mmio bar and map it */&lt;br&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; res = platform_get_resource(pdev, IORESOURCE_MEM, 0);&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; master_ext-&amp;gt;ioarea = res;&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; len = resource_size(res);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;devm_request_mem_region(&amp;amp;pdev-&amp;gt;dev, master_ext-&amp;gt;ioarea-&amp;gt;start, len, pdev-&amp;gt;name)&lt;/div&gt;&lt;div&gt;master_ext-&amp;gt;regs = devm_ioremap(&amp;amp;pdev-&amp;gt;dev, master_ext-&amp;gt;ioarea-&amp;gt;start, len);&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1710" width="500" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-7" value="/* Get the spi irq number */&#xa;    chip_info-&gt;irq = platform_get_irq(pdev, 0);" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1980" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uG96HTa8PqfCu1SL1alc-8" value="&lt;div&gt;master_ext-&amp;gt;workqueue = create_singlethread_workqueue(workqueue_name);&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; INIT_WORK(&amp;amp;master_ext-&amp;gt;work, zx_spi_transfer_work);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; spin_lock_init(&amp;amp;master_ext-&amp;gt;queue_lock);&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; INIT_LIST_HEAD(&amp;amp;master_ext-&amp;gt;queue);&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2100" width="410" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
